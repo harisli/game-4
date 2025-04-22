@@ -1,13 +1,13 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"TileSet1",
+  "%Name":"Space",
   "autoTileSets":[],
   "macroPageTiles":{
-    "SerialiseHeight":0,
-    "SerialiseWidth":0,
-    "TileSerialiseData":[],
+    "SerialiseHeight":5,
+    "SerialiseWidth":4,
+    "TileSerialiseData":[1,2,3,0,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,],
   },
-  "name":"TileSet1",
+  "name":"Space",
   "out_columns":4,
   "out_tilehborder":2,
   "out_tilevborder":2,
@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Space",
-    "path":"sprites/Space/Space.yy",
+    "name":"Stars",
+    "path":"sprites/Stars/Stars.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
