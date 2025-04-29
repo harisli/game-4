@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"Object1",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"Object1",
   "overriddenProperties":[],
@@ -28,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"BigAstriod",
-    "path":"sprites/BigAstriod/BigAstriod.yy",
+    "name":"BigAsteriod",
+    "path":"sprites/BigAsteriod/BigAsteriod.yy",
   },
   "spriteMaskId":null,
   "visible":true,
