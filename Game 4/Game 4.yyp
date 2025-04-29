@@ -8,7 +8,7 @@
     "children":[],
     "name":"Default",
   },
-  "defaultScriptType":0,
+  "defaultScriptType":2,
   "Folders":[
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -34,6 +34,7 @@
   },
   "name":"Game 4",
   "resources":[
+    {"id":{"name":"Astronaut_Controls","path":"objects/Astronaut_Controls/Astronaut_Controls.yy",},},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Exoplanet","path":"rooms/Exoplanet/Exoplanet.yy",},},
     {"id":{"name":"Astronaut","path":"sprites/Astronaut/Astronaut.yy",},},
