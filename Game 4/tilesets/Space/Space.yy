@@ -12,14 +12,14 @@
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
-    "name":"Game 4",
-    "path":"Game 4.yyp",
+    "name":"Tile Sets",
+    "path":"folders/Tile Sets.yy",
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"Stars",
-    "path":"sprites/Stars/Stars.yy",
+    "name":"spr_stars",
+    "path":"sprites/spr_stars/spr_stars.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
