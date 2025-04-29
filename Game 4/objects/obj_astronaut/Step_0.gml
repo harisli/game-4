@@ -45,5 +45,7 @@ var yinput = down - up;
 /// @DnDHash : 64E1A46D
 /// @DnDArgument : "xvel" "xinput * my_speed"
 /// @DnDArgument : "yvel" "yinput * my_speed"
+/// @DnDArgument : "maxxmove" "0"
+/// @DnDArgument : "maxymove" "0"
 /// @DnDArgument : "object" "noone"
-move_and_collide(xinput * my_speed, yinput * my_speed, noone,4,0,0,-1,-1);
+move_and_collide(xinput * my_speed, yinput * my_speed, noone,4,0,0,0,0);
